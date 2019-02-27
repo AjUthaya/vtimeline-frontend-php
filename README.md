@@ -1,1 +1,1 @@
-# Vertical timeline (Frontend)
+# Vertical Timeline (Frontend)
